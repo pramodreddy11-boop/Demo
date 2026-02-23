@@ -1,1 +1,2 @@
-print{"heelo this my first command"}
+print("heelo this my first command"
+      hhhhhh)
